@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(152, 221, 152);
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(178, 216, 178);
+}
+
+.armarios {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.armario {
+    width: 200px;
+    height: 300px;
+    margin: 40px;
+    border: 1px solid black;
+    display: flex;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.livre {
+    background-color: rgb(16, 104, 16);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.manutencao {
+    background-color: rgba(255, 255, 0, 0.596);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bloqueado {
+    background-color: rgba(255, 0, 0, 0.521);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.org {
+    background-color: rgb(182, 190, 152);
+    display: flex;
+    height: 360px;
+    font-weight: bold;
+    justify-content: space-evenly; 
+    margin: 50px;
+    border-radius: 10px;
+}

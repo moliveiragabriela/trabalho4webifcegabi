@@ -1,0 +1,17 @@
+{
+    "primeiroAndar": [
+      {"id": 1, "status": "livre"},
+      {"id": 2, "status": "livre"},
+      {"id": 3, "status": "livre"},
+      {"id": 4, "status": "livre"},
+      {"id": 5, "status": "livre"}
+    ],
+    "segundoAndar": [
+      {"id": 6, "status": "livre"},
+      {"id": 7, "status": "livre"},
+      {"id": 8, "status": "livre"},
+      {"id": 9, "status": "livre"},
+      {"id": 10, "status": "livre"}
+    ]
+  }
+  
